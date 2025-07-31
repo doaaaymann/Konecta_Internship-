@@ -8,7 +8,7 @@ Welcome to my internship repository! This folder documents my learning journey, 
 
 **Company:** Konecta Egypt  
 **Role:** Data Analyst & Visualization Intern  
-**Duration:** [July to October 2025]  
+**Duration:** July to October 2025  
 **Focus Areas:**
 - Data cleaning & preparation
 - Exploratory data analysis (EDA)
