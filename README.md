@@ -41,6 +41,7 @@ This repository will grow over time as I take on new tasks and projects during t
 ## 🙋‍♂️ About Me
 
 **Name:** Doaa Ali
+
 **Role:** Data Engineer | Aspiring Analyst  
 **Contact:** www.linkedin.com/in/doaa-ayman
 
